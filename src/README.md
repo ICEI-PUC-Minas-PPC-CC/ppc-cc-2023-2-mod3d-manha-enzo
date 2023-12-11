@@ -2,10 +2,7 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
 
-## Histórico de versões
 
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+
+![Captura de tela 2023-12-11 100112](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-enzo/assets/142806413/f29bb993-d785-4972-91a9-8deb9be2d448)
